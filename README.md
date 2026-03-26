@@ -124,5 +124,4 @@ This project was completed as part of a **Kaggle machine learning competition**,
 
 ---
 
-* or make it more impressive for LinkedIn / recruiters 🚀
 

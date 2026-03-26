@@ -116,11 +116,6 @@ jupyter notebook main_code.ipynb
 
 3. Run all cells to reproduce the workflow and generate predictions.
 
----
-
-## 📚 Context
-
-This project was completed as part of a **Kaggle machine learning competition**, focusing on **regression modeling for risk prediction in road accident scenarios** using synthetic but realistic data.
 
 ---
 
